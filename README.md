@@ -19,17 +19,6 @@ Fonte: Base fictícia de funcionários (dados_funcionarios)
 
 Colunas principais: id, nome, sobrenome, idade, duracao_servico
 
-Como usar
-
-Clone o repositório:
-
-git clone https://github.com/seu-usuario/seu-repositorio.git
-
-
-Abra o notebook no Google Colab
-.
-
-Execute as células na ordem apresentada.
 
 Bibliotecas utilizadas
 import pandas as pd
